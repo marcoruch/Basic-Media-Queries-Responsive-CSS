@@ -1,2 +1,3 @@
 # Basic-Media-Queries-Responsive-CSS
-Basic Template for Media Queries.
+
+<h1>Basic Template for Media Queries.</h1>
