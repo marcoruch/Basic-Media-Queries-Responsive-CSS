@@ -13,7 +13,7 @@
  *   768-480     - tablet 
  *   480-less    - phone landscape & smaller
  * ================================================
- */
+ **/
  
 @media all and (min-width: 1024px) and (max-width: 1280px) { }
 
